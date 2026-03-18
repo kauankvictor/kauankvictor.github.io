@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+img{
+    width: 400px;
+
+}
+
+.navegador{
+    display: block;
+    background-color: skyblue;
+    height: 100px;
+    width: 100%;
+    
+}
+
+.navegador input{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+
+.texto{
+    display: flex;
+    background-color: skyblue;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+}
+
+.texto2{
+    display: flex;
+    background-color: skyblue;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    
+}
+
+.mae{
+    display: inline-flex;
+}
+
+.imagens img{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.desc{
+    display: inline-flex;
+    gap: 10px;
+}
+
+.desc p{
+    color: gray;
+}
+
+.desc button{
+    opacity: 0.5;
+    background-color: green;
+    border-radius: 10px;
+    color:aliceblue
+}

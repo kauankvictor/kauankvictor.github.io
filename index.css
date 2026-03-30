@@ -204,7 +204,7 @@ a {
 .secao-principal {
   position: relative;
   min-height: 88vh;
-  background: url("/img/foto-mercado.jpg") center/cover no-repeat;
+  background: url("foto-mercado.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   padding: 60px;

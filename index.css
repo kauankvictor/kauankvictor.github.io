@@ -317,7 +317,7 @@ a {
 }
 
 .secao-fundo-suave {
-  background-color: #cbf291
+  background-color: #e8e9e78b
 }
 
 .cabecalho-secao {
@@ -472,7 +472,7 @@ a {
 .galeria-sobre-mercado {
   margin-top: 35px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
 
